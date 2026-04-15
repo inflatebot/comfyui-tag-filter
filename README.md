@@ -2,6 +2,9 @@
 
 Smart tag filtering node for ComfyUI workflows with semantic category support for Danbooru/E621 tags.
 
+## AI Disclaimer
+This node set was generated with Claude Opus 4.5. While I use it on a regular basis and can vouch that it functions as advertised, I have also not vetted the code. comfyui-tag-filter is AS-IS software.
+
 ## Features
 
 - **Semantic Categories**: Built-in knowledge of Danbooru/E621 tag structures
